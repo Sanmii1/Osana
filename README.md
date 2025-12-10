@@ -3,4 +3,13 @@ This website has been created for learning purpose. Osana is a website about Osa
 
 ___
 
-#
+# Progamming Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+
+---
+# Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+          
+          
